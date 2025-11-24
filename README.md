@@ -91,8 +91,6 @@ Strong ability to execute, optimize, and report performance
 
 📂 Projects (Coming Soon)
 
-You can add projects here, for example:
-
 Shopify Store Optimization Case Study
 
 SEO Audit Documentation
